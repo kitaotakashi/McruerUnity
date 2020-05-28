@@ -13,6 +13,8 @@ public class IndexManager : MonoBehaviour
     public static int mode;
     private int MODEMAX = 5;
 
+    //git test
+
     public static int getSelectMode()
     {
         return mode;
