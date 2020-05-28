@@ -7,7 +7,6 @@ public class MainManager : MonoBehaviour
 {
     private int state;
     private int localmode;
-    //test
 
     // Start is called before the first frame update
     void Start()
